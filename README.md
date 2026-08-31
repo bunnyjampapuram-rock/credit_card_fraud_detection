@@ -10,6 +10,10 @@ The goal of this project is to build a machine learning model that can identify 
 
 The final solution uses **XGBoost** with an optimized classification threshold of **0.4**.
 
+
+## 🚀 Live Demo
+
+👉 [Try the Credit Card Fraud Detection App](https://creditcardfrauddetection-ntm83kzrxuet8aa8iysgtm.streamlit.app/)
 ## 🎯 Objectives
 
 * Analyze transaction data and identify fraud patterns
